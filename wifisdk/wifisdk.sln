@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wifisdk", "wifisdk.csproj", "{AC64F0F6-0DE1-4A9E-B315-81134F92F036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp27", "..\ConsoleApp27\ConsoleApp27.csproj", "{20EB57AC-D357-4055-A34A-784B5D4AAA9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wifiservive", "..\wifiservive\wifiservive.csproj", "{531AA68B-44FF-4377-A912-A2947ADC9976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC64F0F6-0DE1-4A9E-B315-81134F92F036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC64F0F6-0DE1-4A9E-B315-81134F92F036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC64F0F6-0DE1-4A9E-B315-81134F92F036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC64F0F6-0DE1-4A9E-B315-81134F92F036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EB57AC-D357-4055-A34A-784B5D4AAA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EB57AC-D357-4055-A34A-784B5D4AAA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EB57AC-D357-4055-A34A-784B5D4AAA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EB57AC-D357-4055-A34A-784B5D4AAA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531AA68B-44FF-4377-A912-A2947ADC9976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531AA68B-44FF-4377-A912-A2947ADC9976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531AA68B-44FF-4377-A912-A2947ADC9976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531AA68B-44FF-4377-A912-A2947ADC9976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267408CC-3976-4885-8FC9-B361C530D3D0}
+	EndGlobalSection
+EndGlobal

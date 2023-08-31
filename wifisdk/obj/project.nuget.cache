@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkxHEXlgL5aEIvO95MT9w2yYX4jA9qsYe8LJyMbqL+3rNyE9NttgK+nfA1BrjeQFlQdLvvX+fW+NokpcW6lVqg==",
+  "success": true,
+  "projectFilePath": "D:\\工作区\\study\\wifisdk\\wifisdk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\29828.LAPTOP-NCHPB28F\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\29828.LAPTOP-NCHPB28F\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.29\\microsoft.windows.sdk.net.ref.10.0.22621.29.nupkg.sha512"
+  ],
+  "logs": []
+}

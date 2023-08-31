@@ -1,0 +1,5 @@
+D:\工作区\study\wifisdk\obj\Debug\net6.0-windows\wifisdk.csproj.AssemblyReference.cache
+D:\工作区\study\wifisdk\obj\Debug\net6.0-windows\wifisdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作区\study\wifisdk\obj\Debug\net6.0-windows\wifisdk.AssemblyInfoInputs.cache
+D:\工作区\study\wifisdk\obj\Debug\net6.0-windows\wifisdk.AssemblyInfo.cs
+D:\工作区\study\wifisdk\obj\Debug\net6.0-windows\wifisdk.csproj.CoreCompileInputs.cache

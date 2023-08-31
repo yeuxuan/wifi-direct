@@ -1,0 +1,1 @@
+D:\工作区\study\wifisdk\obj\Debug\net6.0\wifisdk.csproj.AssemblyReference.cache
